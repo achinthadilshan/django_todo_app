@@ -1,0 +1,4 @@
+﻿app/__pycache__
+main/migrations
+main/__pycache__
+node_modules
